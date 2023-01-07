@@ -1,0 +1,3 @@
+#define NUM_ALLOCS 5000
+#define NUM_TESTCASES 40
+#define NUM_ITERATIONS 20
